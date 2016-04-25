@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<EmBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Drivers\CMSIS\DSP_Lib\Source\CommonTables\arm_common_tables.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="390" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\DSP_Lib\Source\FastMathFunctions\arm_sqrt_q31.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2230" topLine="48" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\DSP_Lib\Source\StatisticsFunctions\arm_std_f32.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="254" topLine="175" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xb.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="197645" topLine="2714" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Device\ST\STM32F1xx\Source\Templates\gcc\startup_stm32f103xb.s" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3691" topLine="55" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Include\arm_math.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="14518" topLine="367" />
+		</Cursor>
+	</File>
+	<File name="Drivers\CMSIS\Include\core_cm3.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="50" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10720" topLine="272" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_adc.h" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48577" topLine="864" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_def.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6090" topLine="114" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_dma.h" open="0" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="17773" topLine="399" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_gpio.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="120" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_i2c.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3170" topLine="58" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="75110" topLine="1597" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_tim_ex.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5986" topLine="102" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Inc\stm32f1xx_hal_uart.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="7330" topLine="173" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="11875" topLine="263" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_adc.c" open="0" top="0" tabpos="17" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="48824" topLine="1164" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_dma.c" open="0" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="13701" topLine="340" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_gpio.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="18614" topLine="435" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_i2c.c" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="54287" topLine="1659" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_tim.c" open="0" top="0" tabpos="18" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="147957" topLine="4729" />
+		</Cursor>
+	</File>
+	<File name="Drivers\STM32F1xx_HAL_Driver\Src\stm32f1xx_hal_uart.c" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="32523" topLine="850" />
+		</Cursor>
+	</File>
+	<File name="Inc\Signal_management.h" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="129" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Inc\stm32f1xx_hal_conf.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="12786" topLine="287" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS\cmsis_os.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="82" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\Third_Party\FreeRTOS\Source\list.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="9329" topLine="162" />
+		</Cursor>
+	</File>
+	<File name="Middlewares\Third_Party\FreeRTOS\Source\tasks.c" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="96394" topLine="2858" />
+		</Cursor>
+	</File>
+	<File name="Src\Signal_management.c" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="19" />
+		</Cursor>
+	</File>
+	<File name="Src\gyroW.c" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="172" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="Src\main.c" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4174" topLine="105" />
+		</Cursor>
+	</File>
+	<File name="Src\stm32f1xx_hal_msp.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2454" topLine="60" />
+		</Cursor>
+	</File>
+	<File name="Src\stm32f1xx_it.c" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2075" topLine="110" />
+		</Cursor>
+	</File>
+	<File name="addlib\onewire.c" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5289" topLine="130" />
+		</Cursor>
+	</File>
+	<File name="mpu6050\mpu6050.c" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="697" topLine="19" />
+		</Cursor>
+	</File>
+</EmBlocks_layout_file>
